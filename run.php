@@ -8,7 +8,7 @@
 date_default_timezone_set("Asia/Jakarta");
 class bigtoken extends modules
 {
-        private $domains = "@sharklasers.com";
+        private $domains = "@spam4.me";
 
         public function registerAccount($referralCode)
         {
